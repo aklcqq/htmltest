@@ -1,0 +1,32 @@
+﻿body {
+  font-family: 汉仪书宋二简;
+  background-color: #eaeaea;
+  margin: 5%;}
+
+h1 {
+  text-align: center}
+
+p {
+  font-size: 90%;
+  font-weight: normal;
+  line-height: 1.4em;
+  word-spacing: 0.05em;
+  margin: 2%;}
+
+p.th {
+  overflow: hidden;}
+
+p.er {
+  color: #e8e4e1;}
+
+div.content {
+  height: 90%;
+  width: 80%;
+  margin: 2% auto 2% auto;
+  background-color: #e8e4e1;
+  text-align: justify;}
+
+ul {
+  margin: 5%;
+  text-align: left;}
+  
