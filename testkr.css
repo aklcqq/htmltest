@@ -1,0 +1,59 @@
+﻿body {
+  font-family: 汉仪书宋二简;
+  background-color: #eaeaea;
+  margin: 5%;}
+
+div.title {
+  width: 95%;
+  margin: 2% auto 2% auto;}
+
+  
+  
+
+h1 {
+  text-align: left;}
+
+h2 {
+  font-family: batang;
+  text-align: right;}
+
+p {
+  font-size: 90%;
+  font-weight: normal;
+  line-height: 1.4em;
+  word-spacing: 0.05em;
+  margin: 2%;}
+
+p.th {
+  overflow: hidden;}
+
+p.er {
+  color: #e8e4e1;}
+
+div.content {
+  display: flex;}
+
+
+div.cn {
+  height: 1200px;
+  width: 45%;
+  margin: 2% auto 2% auto;
+  background-color: #e8e4e1;
+  text-align: justify;
+  overflow: scroll;}
+
+div.kr {
+  font-size: 90%;
+  font-family: batang;
+  height: 1200px;
+  width: 45%;
+  margin: 2% auto 2% auto;
+  background-color: #e8e4e1;
+  text-align: justify;
+  overflow: scroll;}
+
+ul {
+  font-size: 90%;
+  margin: 5%;
+  text-align: left;}
+  
